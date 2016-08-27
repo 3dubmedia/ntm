@@ -1,0 +1,17 @@
+
+
+
+
+section.about-masthead{margin:50px 0 0;}
+section#contact div.error, section#contact div.warning{background-repeat: no-repeat; background-position: right bottom;}
+
+
+
+
+div.modal-container{position:fixed; display:none; left:0; top:0; width:100%; z-index:1000; text-align:center;}
+div.modal-container div.modal-content{padding:15px 20px; display:inline-block; background:#fff; margin:10% auto 0; position:relative; z-index:1002;}
+div.modal-container div.modal-content span{text-align:center; font-weight:bold; display:block; margin:0 0 10px;}
+div.modal-container div.modal-content button{padding:2px 15px; display:block; margin:0 auto;}
+div.modal-container div.modal-overlay{position:fixed; z-index:1001; width:100%; height:100%; top:0; left:0; background:#000; opacity: 0.6; filter: alpha(opacity=60);}
+
+span.dark{color:#111;}
