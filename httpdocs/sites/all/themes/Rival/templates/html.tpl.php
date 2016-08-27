@@ -17,18 +17,6 @@
     <!-- Universal Stylesheet -->
     <?php print $styles; ?>
 
-    <!-- CSS -->
-    <link href="/<?php print path_to_theme(); ?>/assets/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-    <link href="/<?php print path_to_theme(); ?>/assets/css/simpletextrotator.css" rel="stylesheet">
-    <link href="/<?php print path_to_theme(); ?>/assets/css/font-awesome.min.css" rel="stylesheet">
-    <link href="/<?php print path_to_theme(); ?>/assets/css/et-line-font.css" rel="stylesheet">
-    <link href="/<?php print path_to_theme(); ?>/assets/css/magnific-popup.css" rel="stylesheet">
-    <link href="/<?php print path_to_theme(); ?>/assets/css/flexslider.css" rel="stylesheet">
-    <link href="/<?php print path_to_theme(); ?>/assets/css/owl.carousel.css" rel="stylesheet">
-    <link href="/<?php print path_to_theme(); ?>/assets/css/animate.css" rel="stylesheet">
-    <link href="/<?php print path_to_theme(); ?>/assets/css/style.css" rel="stylesheet">
-    <link href="/<?php print path_to_theme(); ?>/assets/css/style-NS.css" rel="stylesheet">
-
     <!-- Script Libraries -->
     <?php print $scripts; ?>
 
