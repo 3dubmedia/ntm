@@ -10,6 +10,16 @@ regions[content3] = Content 3
 regions[footer] = Footer
 
 stylesheets[all][] = assets/bootstrap/css/bootstrap.min.css
+stylesheets[all][] = assets/bootstrap/css/bootstrap.min.css" rel="stylesheet
+stylesheets[all][] = assets/css/font-awesome.min.css" rel="stylesheet
+stylesheets[all][] = assets/css/et-line-font.css" rel="stylesheet
+stylesheets[all][] = assets/css/magnific-popup.css" rel="stylesheet
+stylesheets[all][] = assets/css/flexslider.css" rel="stylesheet
+stylesheets[all][] = assets/css/owl.carousel.css" rel="stylesheet
+stylesheets[all][] = assets/css/animate.css" rel="stylesheet
+stylesheets[all][] = assets/css/style.css" rel="stylesheet
+stylesheets[all][] = assets/css/style-NS.css" rel="stylesheet
+
 scripts[] = assets/js/jquery.js
 
 features[] = name
